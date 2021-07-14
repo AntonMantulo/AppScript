@@ -1,32 +1,7 @@
 function runQuery() {
   // Replace this value with the project ID listed in the Google
   // Cloud Platform project.
-  a = { "6416576": "timofeich777@gmail.com", 
-        "5230954": "assem00965@gmail.com", 
-        "5544304": "adr5050@gmail.com, magdyeman571981@gmail.com", 
-        "5976838": "adr5050@gmail.com, magdyeman571981@gmail.com, lana.rerecich@gmail.com", 
-        "5168544": "michel.claeys@yahoo.com", 
-        "6117663": "Moshtaghfaromid@gmail.com", 
-        "2907354": "naz_kucuka@hotmail.com", 
-        "5809477": "nfarouk9@gmail.com", 
-        "6038052": "prudnikaliaksandra@gmail.com", 
-        "6286631": "Zareihadi866@gmail.com", 
-        "4899647": "ankraft@inbox.lv", 
-        "5060560": "bobpiter78@mail.ru", 
-        "5091869": "dkamenski@hotmail.com", 
-        "5618114": "Farhadesm45@gmail.com", 
-        "6410132": "fthflz@live.com", 
-        "5746532": "Hossam_seif71@yahoo.com",  
-        "4822993": "maxoni81@gmail.com", 
-        "6416096": "89166050000@mail.ru", 
-        "5876687": "abeershaaban@icloud.com", 
-        "5486731": "Samvelik64@gmail.com", 
-        "2492552": "gapkaloff@inter-storm.com", 
-        "6472409": "lick099@gmail.com", 
-        "6590574": "Nashwa.hisham103@gmail.com", 
-        "6800242": "armmar7777@gmail.com", 
-        "6864911": "basakerkol@stra-bella.com", 
-        "3633397": "esin_e2008@yahoo.com"}
+  a = { "xxx": "xxx@gmail.com"}
 
 
   // Iterate over the properties.
